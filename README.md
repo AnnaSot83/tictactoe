@@ -1,4 +1,4 @@
-Made by AnnaSot
+Made by AnnaSot /br
 Discord: annasot
 
 <!-- # ⭕ Tic-Tac-Toe -->
